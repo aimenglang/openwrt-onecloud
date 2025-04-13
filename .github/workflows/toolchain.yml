@@ -17,7 +17,6 @@ jobs:
       matrix:
         repo_info:
           - {branch: "openwrt-23.05"}
-          - {branch: "openwrt-24.10"}
 
 
     steps: 
