@@ -274,7 +274,7 @@ jobs:
         CONFIG_PACKAGE_luci-app-adguardhome=m
         CONFIG_PACKAGE_luci-app-usb-printer=m
         CONFIG_PACKAGE_luci-app-openclash=m
-        CONFIG_PACKAGE_luci-app-tailscale=m
+        # CONFIG_PACKAGE_luci-app-tailscale=m
         CONFIG_PACKAGE_luci-app-filebrowser-go=m
         CONFIG_PACKAGE_luci-app-frpc=m
         CONFIG_PACKAGE_luci-app-frps=m
